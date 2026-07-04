@@ -1,4 +1,5 @@
-# 🧾 Clasificador de Documentos
+# 🧾 Clasificador de Documentos mediante
+# Visiontrainer
 
 **Clasifica automáticamente tickets de peaje, boletas y facturas a partir de una foto o escaneo**, usando Machine Learning clásico (HOG + color) y una interfaz web hecha con Streamlit.
 
@@ -118,6 +119,13 @@ Este proyecto está bajo la licencia MIT. Eres libre de usarlo, modificarlo y di
 
 ---
 
-<p align="center">
-  Hecho con ❤️ y 🧠 en Chile
-</p>
+## 📄 Conclusion
+Este prototipo complementa los conocimientos adquiridos es en machine learning mediante aprender conceptos y relacionar como procesa. y asimilan los datos las maquinas que son una emulación de un proceso biológico, conocimientos adquiridos de la neurociencia.
+
+# Asimilación
+Ademas de complemetar infomración del curso, con términos como: random forest, regresión lineal, regresión logística, varianza, teoría de conjuntos, gradiante boss, gaussianas, arbol de decisiones.
+
+## Resolucion de Problemas
+En lo personal hice una comparación entre realizar un ajuste manual para predecir clasificaciones mediante el formato JSON fui ajustando palabras o frases clave que eran mas recurrentes de cada clasificación y la comparé con la clasificación automática preentrenamoento etiquetado mediante medelo de machine learning eso si con el requisito de ingresar muchos ejemplos para que el modelo comience a relacionar y ajustar automaticamente hiperparámetros.
+
+
