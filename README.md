@@ -125,7 +125,7 @@ Este prototipo complementa los conocimientos adquiridos es en machine learning m
 # Asimilación
 Ademas de complemetar infomración del curso, con términos como: random forest, regresión lineal, regresión logística, varianza, teoría de conjuntos, gradiante boss, gaussianas, arbol de decisiones.
 
-## Resolucion de Problemas
+# Resolucion de Problemas
 En lo personal hice una comparación entre realizar un ajuste manual para predecir clasificaciones mediante el formato JSON fui ajustando palabras o frases clave que eran mas recurrentes de cada clasificación y la comparé con la clasificación automática preentrenamoento etiquetado mediante medelo de machine learning eso si con el requisito de ingresar muchos ejemplos para que el modelo comience a relacionar y ajustar automaticamente hiperparámetros.
 
 
